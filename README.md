@@ -35,7 +35,7 @@ The bot provides real-time feedback on grammar, politeness, and context, and con
 
 This project leverages modern AI tools and a robust architecture to create its intelligent behavior.
 
-- **Core LLM**: Google Gemini 1.5 Pro (accessed via LiteLLM)  
+- **Core LLM**: Google Gemini 2.5 Flash Lite (accessed via LiteLLM)  
 - **Backend Logic**: Python  
 
 **RAG Architecture:**
